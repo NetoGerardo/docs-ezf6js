@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-mc3tb6.salamcuan.sbs/sitemap.xml
